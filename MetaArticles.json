@@ -1,0 +1,36 @@
+{
+  "tags": [
+    {
+      "name": "Robotics",
+      "color": "#3E64FF"
+    },
+    {
+      "name": "Web Dev",
+      "color": "#10B981"
+    },
+    {
+      "name": "Embedded Systems",
+      "color": "#F59E0B"
+    },
+    {
+      "name": "Machine Learning",
+      "color": "#8B5CF6"
+    },
+    {
+      "name": "Hardware",
+      "color": "#EF4444"
+    },
+    {
+      "name": "PCB Design",
+      "color": "#06B6D4"
+    },
+    {
+      "name": "Software",
+      "color": "#EC4899"
+    },
+    {
+      "name": "IoT",
+      "color": "#14B8A6"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+
+{
+  "education": [
+    {
+      "institution": "North Carolina State University",
+      "years": "2020 - 2024 (Expected)",
+      "gpa": "3.85 / 4.0",
+      "honors": "Summa Cum Laude",
+      "degrees": [
+        "B.S. in Computer Science",
+        "Minor in Mathematics"
+      ],
+      "description": "Focus on software engineering, data structures, and algorithms. Actively participated in the university's Web Development Club and led a team in the annual hackathon."
+    },
+    {
+      "institution": "Example High School",
+      "years": "2016 - 2020",
+      "gpa": "4.0 / 4.0",
+      "honors": "Valedictorian",
+      "degrees": [
+        "High School Diploma"
+      ],
+      "description": "Completed AP curriculum with a heavy emphasis on STEM courses. Founded the school's first coding initiative to teach underclassmen basic Python."
+    }
+  ],
+  "skills": {
+    "tabs": [
+      { "id": "programming", "label": "Programming" },
+      { "id": "design", "label": "Design" },
+      { "id": "personal", "label": "Personal" }
+    ],
+    "categories": {
+      "programming": [
+        { "name": "Python", "years": "3", "description": "Used extensively for coursework, data analysis, and automation." },
+        { "name": "Java", "years": "2", "description": "Object-oriented programming, data structures, and backend logic." },
+        { "name": "Vue.js / Nuxt", "years": "1", "description": "Building responsive, reactive frontend web applications." },
+        { "name": "HTML / CSS", "years": "3", "description": "Semantic markup and modern styling including Flexbox and Grid." },
+        { "name": "JavaScript", "years": "2", "description": "Core ES6+ features, DOM manipulation, and API integrations." },
+        { "name": "C++", "years": "1", "description": "Memory management and low-level algorithmic problem solving." }
+      ],
+      "design": [
+        { "name": "Figma", "years": "2", "description": "Wireframing, UI mockups, and interactive prototyping." },
+        { "name": "UI/UX Principles", "years": "1", "description": "Applying user-centered design concepts to web projects." }
+      ],
+      "personal": [
+        { "name": "Problem Solving", "years": "4+", "description": "Tackling complex algorithmic challenges and debugging." },
+        { "name": "Team Collaboration", "years": "3", "description": "Working effectively in group projects and hackathons." },
+        { "name": "Adaptability", "years": "Ongoing", "description": "Quickly picking up new languages and frameworks." }
+      ]
+    }
+  },
+  "experience": [
+    {
+      "role": "Software Engineering Intern",
+      "company": "Tech Innovations Inc.",
+      "duration": "May 2023 - Aug 2023",
+      "description": "Collaborated with the frontend team to modernize a legacy internal dashboard used by over 200 employees.",
+      "bullets": [
+        "Migrated 15+ complex views from Vue 2 to Vue 3 (Composition API).",
+        "Reduced average page load time by 20% through lazy loading and optimized API calls.",
+        "Participated in daily agile stand-ups and bi-weekly sprint planning."
+      ],
+      "technologies": [
+        "Vue 3",
+        "JavaScript",
+        "Tailwind CSS",
+        "Git"
+      ]
+    },
+    {
+      "role": "Undergraduate Teaching Assistant",
+      "company": "NC State University",
+      "duration": "Aug 2022 - Present",
+      "description": "Assist professors in delivering core computer science curriculum to classes of 150+ students.",
+      "bullets": [
+        "Host weekly office hours to help students debug Java and Python assignments.",
+        "Grade projects and exams, providing detailed feedback on code structure and algorithm efficiency.",
+        "Developed a Python script to automate the distribution of grading rubrics, saving the TA team 5 hours a week."
+      ],
+      "technologies": [
+        "Java",
+        "Python",
+        "Communication",
+        "Leadership"
+      ]
+    },
+    {
+      "role": "Freelance Web Developer",
+      "company": "Self-Employed",
+      "duration": "Jan 2021 - Present",
+      "description": "Design and develop custom responsive websites for local small businesses.",
+      "bullets": [
+        "Designed UI/UX wireframes in Figma, ensuring alignment with client branding.",
+        "Built, hosted, and maintained 3 client websites using modern web standards.",
+        "Implemented SEO best practices, resulting in a 30% increase in organic traffic for a local cafe."
+      ],
+      "technologies": [
+        "HTML/CSS",
+        "Figma",
+        "SEO",
+        "Netlify"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "category": "NC State",
+      "date": "2023 - 2024",
+      "description": "Maintained 3.8+ GPA.",
+      "link": null
+    },
+    {
+      "title": "University Scholarship",
+      "category": "NC State",
+      "date": "Aug 2022",
+      "description": "Academic excellence award.",
+      "link": null
+    },
+    {
+      "title": "AP Scholar with Distinction",
+      "category": "Cox Mill",
+      "date": "May 2022",
+      "description": "Average score of 3.5+ on exams.",
+      "link": null
+    },
+    {
+      "title": "National Honor Society",
+      "category": "Cox Mill",
+      "date": "2020 - 2022",
+      "description": "Scholarship and leadership.",
+      "link": null
+    },
+    {
+      "title": "AWS Cloud Practitioner",
+      "category": "Other",
+      "date": "Dec 2023",
+      "description": "Foundational cloud cert.",
+      "link": "https://aws.amazon.com/"
+    }
+  ]
+}

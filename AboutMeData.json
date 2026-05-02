@@ -3,24 +3,25 @@
   "education": [
     {
       "institution": "North Carolina State University",
-      "years": "2020 - 2024 (Expected)",
-      "gpa": "3.85 / 4.0",
-      "honors": "Summa Cum Laude",
+      "years": "2025 - 2029 (Expected)",
+      "gpa": "4.0",
+      "honors": "Deans List",
       "degrees": [
-        "B.S. in Computer Science",
-        "Minor in Mathematics"
+        "B.S. Electrical Engineering (Controls and Robotics)",
+        "B.S. Computer Engineering int (Embedded Systems)",
+        "Graphics Communication Minor"
       ],
-      "description": "Focus on software engineering, data structures, and algorithms. Actively participated in the university's Web Development Club and led a team in the annual hackathon."
+      "description": "Pursuing interdisciplinary engineering studies focused on robotics, embedded systems, mechanical design, and controls."
     },
     {
-      "institution": "Example High School",
-      "years": "2016 - 2020",
-      "gpa": "4.0 / 4.0",
-      "honors": "Valedictorian",
+      "institution": "Cox Mill High School",
+      "years": "2020 - 2025",
+      "gpa": "4.44 / 3.98",
+      "honors": "Summa Cum Laude, National Honor Society, AoIT Programming Award",
       "degrees": [
         "High School Diploma"
       ],
-      "description": "Completed AP curriculum with a heavy emphasis on STEM courses. Founded the school's first coding initiative to teach underclassmen basic Python."
+      "description": "Completed AP curriculum with emphasis on STEM courses. President of Computer Science Club."
     }
   ],
   "skills": {
@@ -119,93 +120,122 @@
       }
   },
   "experience": [
-    {
-      "role": "Software Engineering Intern",
-      "company": "Tech Innovations Inc.",
-      "duration": "May 2023 - Aug 2023",
-      "description": "Collaborated with the frontend team to modernize a legacy internal dashboard used by over 200 employees.",
-      "bullets": [
-        "Migrated 15+ complex views from Vue 2 to Vue 3 (Composition API).",
-        "Reduced average page load time by 20% through lazy loading and optimized API calls.",
-        "Participated in daily agile stand-ups and bi-weekly sprint planning."
-      ],
-      "technologies": [
-        "Vue 3",
-        "JavaScript",
-        "Tailwind CSS",
-        "Git"
-      ]
-    },
-    {
-      "role": "Undergraduate Teaching Assistant",
-      "company": "NC State University",
-      "duration": "Aug 2022 - Present",
-      "description": "Assist professors in delivering core computer science curriculum to classes of 150+ students.",
-      "bullets": [
-        "Host weekly office hours to help students debug Java and Python assignments.",
-        "Grade projects and exams, providing detailed feedback on code structure and algorithm efficiency.",
-        "Developed a Python script to automate the distribution of grading rubrics, saving the TA team 5 hours a week."
-      ],
-      "technologies": [
-        "Java",
-        "Python",
-        "Communication",
-        "Leadership"
-      ]
-    },
-    {
-      "role": "Freelance Web Developer",
-      "company": "Self-Employed",
-      "duration": "Jan 2021 - Present",
-      "description": "Design and develop custom responsive websites for local small businesses.",
-      "bullets": [
-        "Designed UI/UX wireframes in Figma, ensuring alignment with client branding.",
-        "Built, hosted, and maintained 3 client websites using modern web standards.",
-        "Implemented SEO best practices, resulting in a 30% increase in organic traffic for a local cafe."
-      ],
-      "technologies": [
-        "HTML/CSS",
-        "Figma",
-        "SEO",
-        "Netlify"
-      ]
-    }
-  ],
+  {
+    "role": "Team Member",
+    "company": "Andy's Frozen Custard",
+    "duration": "Present",
+    "description": "Provide customer service and support daily operations in a fast-paced retail environment while maintaining quality and efficiency.",
+    "bullets": [
+      "Assist customers with orders while creating a positive guest experience.",
+      "Work collaboratively with team members during high-volume shifts.",
+      "Develop strong communication, multitasking, and time management skills.",
+      "Maintain cleanliness, organization, and operational standards."
+    ],
+    "technologies": [
+      "Customer Service",
+      "Communication",
+      "Teamwork",
+      "Operations"
+    ]
+  },
+  {
+    "role": "Team Captain",
+    "company": "FIRST Robotics",
+    "duration": "Sep 2022 - Aug 2025",
+    "description": "Led robotics team members through technical projects, competition preparation, and collaborative problem solving.",
+    "bullets": [
+      "Served as Team Captain, helping organize members and project priorities.",
+      "Supported robot design, testing, and iterative improvements.",
+      "Built leadership skills through mentoring and team coordination.",
+      "Worked under deadlines to prepare systems for competition."
+    ],
+    "technologies": [
+      "Leadership",
+      "Robotics",
+      "Mechanical Design",
+      "Problem Solving"
+    ]
+  },
+  {
+    "role": "PL, ASPL, SPL, ASM",
+    "company": "Boy Scouts of America",
+    "duration": "Mar 2017 - Present",
+    "description": "Held multiple progressive leadership positions while organizing events, mentoring peers, and completing community service initiatives.",
+    "bullets": [
+      "Served in Patrol Leader, Assistant Senior Patrol Leader, Senior Patrol Leader, and Assistant Scoutmaster roles.",
+      "Led teams during events, outings, and structured activities.",
+      "Participated in dozens of service projects benefiting the local community.",
+      "Completed Eagle Scout project building benches and picnic tables for a community pavilion."
+    ],
+    "technologies": [
+      "Leadership",
+      "Project Planning",
+      "Mentorship",
+      "Teamwork"
+    ]
+  }],
   "awards": [
-    {
-      "title": "Dean's List",
-      "category": "NC State",
-      "date": "2023 - 2024",
-      "description": "Maintained 3.8+ GPA.",
-      "link": null
-    },
-    {
-      "title": "University Scholarship",
-      "category": "NC State",
-      "date": "Aug 2022",
-      "description": "Academic excellence award.",
-      "link": null
-    },
-    {
-      "title": "AP Scholar with Distinction",
-      "category": "Cox Mill",
-      "date": "May 2022",
-      "description": "Average score of 3.5+ on exams.",
-      "link": null
-    },
-    {
-      "title": "National Honor Society",
-      "category": "Cox Mill",
-      "date": "2020 - 2022",
-      "description": "Scholarship and leadership.",
-      "link": null
-    },
-    {
-      "title": "AWS Cloud Practitioner",
-      "category": "Other",
-      "date": "Dec 2023",
-      "description": "Foundational cloud cert.",
-      "link": "https://aws.amazon.com/"
-    }
-  ]
+  {
+    "title": "Dean's List",
+    "category": "NC State",
+    "date": "2025 - Present",
+    "description": "Recognized for maintaining a 3.5 GPA across several semesters.",
+    "link": null
+  },
+  {
+    "title": "FEDD First Place Winner",
+    "category": "NC State",
+    "date": "2026",
+    "description": "Awarded first place in the FEDD engineering competition for innovation, design, and technical execution.",
+    "link": null
+  },
+  {
+    "title": "E101 Spring Study Abroad",
+    "category": "NC State",
+    "date": "2026",
+    "description": "Selected to participate in the E101 Spring Study Abroad engineering program.",
+    "link": null
+  },
+  {
+    "title": "Eagle Scout",
+    "category": "Scouting America",
+    "date": "2024",
+    "description": "Earned the highest rank in Scouting through demonstrated leadership, service, and completion of a community improvement project.",
+    "link": null
+  },
+  {
+    "title": "Order of the Arrow",
+    "category": "Scouting America",
+    "date": "2023",
+    "description": "Recognized by peers for leadership, service, and commitment to the values of Scouting.",
+    "link": null
+  },
+  {
+    "title": "National Youth Leadership Training",
+    "category": "Scouting America",
+    "date": "2023",
+    "description": "Completed week long course focused on leadership development in active team environment.",
+    "link": null
+  },
+  {
+    "title": "National Honor Society",
+    "category": "Cox Mill High School",
+    "date": "2022 - 2025",
+    "description": "Selected based on scholarship, leadership, service, and character.",
+    "link": null
+  },
+  {
+    "title": "AoIT Programming Award",
+    "category": "Cox Mill High School",
+    "date": "2021",
+    "description": "Selected for outstanding achievement in programming coursework.",
+    "link": null
+  },
+  {
+    "title": "Certified Associate in Python Programming (PCAP)",
+    "category": "Cox Mill High School",
+    "date": "2021",
+    "description": "Certification of understanding for basic programming concepts in object oriented programming.",
+    "link": "https://verify.openedg.org/?id=JjQx.6TUf.id8v"
+  }]
 }

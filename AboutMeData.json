@@ -121,24 +121,6 @@
   },
   "experience": [
   {
-    "role": "Team Member",
-    "company": "Andy's Frozen Custard",
-    "duration": "Present",
-    "description": "Provide customer service and support daily operations in a fast-paced retail environment while maintaining quality and efficiency.",
-    "bullets": [
-      "Assist customers with orders while creating a positive guest experience.",
-      "Work collaboratively with team members during high-volume shifts.",
-      "Develop strong communication, multitasking, and time management skills.",
-      "Maintain cleanliness, organization, and operational standards."
-    ],
-    "technologies": [
-      "Customer Service",
-      "Communication",
-      "Teamwork",
-      "Operations"
-    ]
-  },
-  {
     "role": "Team Captain",
     "company": "FIRST Robotics",
     "duration": "Sep 2022 - Aug 2025",
@@ -154,6 +136,24 @@
       "Robotics",
       "Mechanical Design",
       "Problem Solving"
+    ]
+  },
+  {
+    "role": "Team Member",
+    "company": "Andy's Frozen Custard",
+    "duration": "Present",
+    "description": "Provide customer service and support daily operations in a fast-paced retail environment while maintaining quality and efficiency.",
+    "bullets": [
+      "Assist customers with orders while creating a positive guest experience.",
+      "Work collaboratively with team members during high-volume shifts.",
+      "Develop strong communication, multitasking, and time management skills.",
+      "Maintain cleanliness, organization, and operational standards."
+    ],
+    "technologies": [
+      "Customer Service",
+      "Communication",
+      "Teamwork",
+      "Operations"
     ]
   },
   {
@@ -199,14 +199,14 @@
   {
     "title": "Eagle Scout",
     "category": "Scouting America",
-    "date": "2024",
+    "date": "2023",
     "description": "Earned the highest rank in Scouting through demonstrated leadership, service, and completion of a community improvement project.",
     "link": null
   },
   {
     "title": "Order of the Arrow",
     "category": "Scouting America",
-    "date": "2023",
+    "date": "2017",
     "description": "Recognized by peers for leadership, service, and commitment to the values of Scouting.",
     "link": null
   },
@@ -234,7 +234,7 @@
   {
     "title": "Certified Associate in Python Programming (PCAP)",
     "category": "Cox Mill High School",
-    "date": "2021",
+    "date": "2022",
     "description": "Certification of understanding for basic programming concepts in object oriented programming.",
     "link": "https://verify.openedg.org/?id=JjQx.6TUf.id8v"
   }]

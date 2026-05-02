@@ -27,8 +27,7 @@
     "tabs": [
       { "id": "professional", "label": "Professional" },
       { "id": "technical", "label": "Technical" },
-      { "id": "practical", "label": "Practical" },
-      { "id": "coursework", "label": "Coursework"}
+      { "id": "practical", "label": "Practical" }
     ],
       "categories": {
         "professional": [
@@ -80,9 +79,9 @@
             "description": "Developed coding skills from a young age, experience in variety of applications and languages. Python, Arduino, C#, Java, etc."
           },
           {
-            "name": "",
-            "years": "3+",
-            "description": "Created a variety of projects using Ardunio, and Raspberry Pi micro-controllers."
+            "name": "3D Printing",
+            "years": "4+",
+            "description": "Experience designing parts for 3D Printing, as well as operating and maintaining 3D printers."
           },
           {
             "name": "Microsoft Excel",
@@ -115,18 +114,6 @@
             "name": "Adaptability",
             "years": "5+",
             "description": "Able to learn new systems, tools, and environments quickly."
-          }
-        ],
-        "coursework": [
-          {
-            "name": "CSC 113 (Intro to Matlab)",
-            "years": "4 Credit",
-            "description": "Introduction to computation with MATLAB"
-          },
-          {
-            "name": "E101 (Intro to Engineering)",
-            "years": "1 Credit",
-            "description": "Developed a project within time constraints, winning 1st place in our category."
           }
         ]
       }

@@ -25,29 +25,111 @@
   ],
   "skills": {
     "tabs": [
-      { "id": "programming", "label": "Programming" },
-      { "id": "design", "label": "Design" },
-      { "id": "personal", "label": "Personal" }
+      { "id": "professional", "label": "Professional" },
+      { "id": "technical", "label": "Technical" },
+      { "id": "practical", "label": "Practical" },
+      { "id": "coursework", "label": "Coursework"}
     ],
-    "categories": {
-      "programming": [
-        { "name": "Python", "years": "3", "description": "Used extensively for coursework, data analysis, and automation." },
-        { "name": "Java", "years": "2", "description": "Object-oriented programming, data structures, and backend logic." },
-        { "name": "Vue.js / Nuxt", "years": "1", "description": "Building responsive, reactive frontend web applications." },
-        { "name": "HTML / CSS", "years": "3", "description": "Semantic markup and modern styling including Flexbox and Grid." },
-        { "name": "JavaScript", "years": "2", "description": "Core ES6+ features, DOM manipulation, and API integrations." },
-        { "name": "C++", "years": "1", "description": "Memory management and low-level algorithmic problem solving." }
-      ],
-      "design": [
-        { "name": "Figma", "years": "2", "description": "Wireframing, UI mockups, and interactive prototyping." },
-        { "name": "UI/UX Principles", "years": "1", "description": "Applying user-centered design concepts to web projects." }
-      ],
-      "personal": [
-        { "name": "Problem Solving", "years": "4+", "description": "Tackling complex algorithmic challenges and debugging." },
-        { "name": "Team Collaboration", "years": "3", "description": "Working effectively in group projects and hackathons." },
-        { "name": "Adaptability", "years": "Ongoing", "description": "Quickly picking up new languages and frameworks." }
-      ]
-    }
+      "categories": {
+        "professional": [
+          {
+            "name": "Leadership",
+            "years": "5+",
+            "description": "Held multiple leadership roles through Boy Scouts, student organizations, and team-based environments."
+          },
+          {
+            "name": "Communication",
+            "years": "4+",
+            "description": "Developed strong communication skills through customer-facing work, group collaboration, and peer tutoring."
+          },
+          {
+            "name": "Problem Solving",
+            "years": "4+",
+            "description": "Applied logical thinking to solve problems ranging from robotics and engineering to outdoor skills."
+          },
+          {
+            "name": "Teamwork",
+            "years": "5+",
+            "description": "Worked in collaborative environments, both in leadership and support roles."
+          },
+          {
+            "name": "Time Management",
+            "years": "4+",
+            "description": "Balanced academics, extracurricular activities, and personal projects while meeting deadlines and maintaining high standards."
+          }
+        ],
+        "technical": [
+          {
+            "name": "SolidWorks",
+            "years": "3+",
+            "description": "Experienced in CAD modeling and mechanical design for FTC Robotics, personal projects, and coursework."
+          },
+          {
+            "name": "MATLAB",
+            "years": "2+",
+            "description": "Used MATLAB for numerical analysis, symbolic math, and related coursework."
+          },
+          {
+            "name": "Electronics",
+            "years": "3+",
+            "description": "Created numerous personal projects using Ardunio, and Raspberry Pi micro-controllers."
+          },
+          {
+            "name": "Programming",
+            "years": "7+",
+            "description": "Developed coding skills from a young age, experience in variety of applications and languages. Python, Arduino, C#, Java, etc."
+          },
+          {
+            "name": "",
+            "years": "3+",
+            "description": "Created a variety of projects using Ardunio, and Raspberry Pi micro-controllers."
+          },
+          {
+            "name": "Microsoft Excel",
+            "years": "1+",
+            "description": "Used Excel for data organization, calculations, and charts."
+          }
+        ],
+        "practical": [
+          {
+            "name": "Hands-On Building",
+            "years": "5+",
+            "description": "Experienced assembling and improving systems from coursework, FTC Robotics, and personal projects."
+          },
+          {
+            "name": "Troubleshooting",
+            "years": "4+",
+            "description": "Strong ability to quickly diagnose issues and fix them."
+          },
+          {
+            "name": "Mechanical Assembly",
+            "years": "3+",
+            "description": "Comfortable working with tools, components, and assemblies requiring precision and attention to detail."
+          },
+          {
+            "name": "Prototyping",
+            "years": "3+",
+            "description": "Built early-stage concepts and functional prototypes by combining design, fabrication, and iteration."
+          },
+          {
+            "name": "Adaptability",
+            "years": "5+",
+            "description": "Able to learn new systems, tools, and environments quickly."
+          }
+        ],
+        "coursework": [
+          {
+            "name": "CSC 113 (Intro to Matlab)",
+            "years": "4 Credit",
+            "description": "Introduction to computation with MATLAB"
+          },
+          {
+            "name": "E101 (Intro to Engineering)",
+            "years": "1 Credit",
+            "description": "Developed a project within time constraints, winning 1st place in our category."
+          }
+        ]
+      }
   },
   "experience": [
     {

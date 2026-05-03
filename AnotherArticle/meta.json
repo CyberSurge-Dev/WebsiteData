@@ -1,0 +1,16 @@
+{
+  "name": "Autonomous Navigation Robot",
+  "description": "Designed and programmed a differential drive robot capable of SLAM in unknown environments using LiDAR and odometry.",
+  "tags": [
+    "Robotics",
+    "Embedded Systems",
+    "C++"
+  ],
+  "repositories": [
+
+  ],
+  "otherLinks": [
+
+  ],
+  "publishDate": "04-7-2026"
+}

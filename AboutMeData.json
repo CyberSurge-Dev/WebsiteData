@@ -121,27 +121,28 @@
   },
   "experience": [
   {
-    "role": "Team Captain",
-    "company": "FIRST Robotics",
-    "duration": "Sep 2022 - Aug 2025",
-    "description": "Led robotics team members through technical projects, competition preparation, and collaborative problem solving.",
-    "bullets": [
-      "Served as Team Captain, helping organize members and project priorities.",
-      "Supported robot design, testing, and iterative improvements.",
-      "Built leadership skills through mentoring and team coordination.",
-      "Worked under deadlines to prepare systems for competition."
-    ],
+  "role": "Camp Counselor",
+  "company": "Town of Huntersville",
+  "duration": "May 2026 - Present",
+  "description": "Supervise and mentor middle school students in an outdoor adventure camp environment while ensuring safety, engagement, and positive group experiences.",
+  "bullets": [
+    "Lead daily activities, games, and team-building exercises for groups of middle school campers.",
+    "Ensure camper safety through active supervision, rule enforcement, and emergency preparedness.",
+    "Facilitate trips, outings, and overnight camping experiences while maintaining organization and accountability.",
+    "Build leadership, communication, and conflict-resolution skills by guiding campers and managing group dynamics."
+  ],
+
     "technologies": [
-      "Leadership",
-      "Robotics",
-      "Mechanical Design",
-      "Problem Solving"
+      "Customer Service",
+      "Communication",
+      "Teamwork",
+      "Operations"
     ]
   },
   {
     "role": "Team Member",
     "company": "Andy's Frozen Custard",
-    "duration": "Present",
+    "duration": "May 2025 - Present",
     "description": "Provide customer service and support daily operations in a fast-paced retail environment while maintaining quality and efficiency.",
     "bullets": [
       "Assist customers with orders while creating a positive guest experience.",
@@ -172,6 +173,23 @@
       "Project Planning",
       "Mentorship",
       "Teamwork"
+    ]},
+  {
+    "role": "Team Captain",
+    "company": "FIRST Robotics",
+    "duration": "Sep 2022 - Aug 2025",
+    "description": "Led robotics team members through technical projects, competition preparation, and collaborative problem solving.",
+    "bullets": [
+      "Served as Team Captain, helping organize members and project priorities.",
+      "Supported robot design, testing, and iterative improvements.",
+      "Built leadership skills through mentoring and team coordination.",
+      "Worked under deadlines to prepare systems for competition."
+    ],
+    "technologies": [
+      "Leadership",
+      "Robotics",
+      "Mechanical Design",
+      "Problem Solving"
     ]
   }],
   "awards": [
@@ -201,13 +219,6 @@
     "category": "Scouting America",
     "date": "2023",
     "description": "Earned the highest rank in Scouting through demonstrated leadership, service, and completion of a community improvement project.",
-    "link": null
-  },
-  {
-    "title": "Order of the Arrow",
-    "category": "Scouting America",
-    "date": "2017",
-    "description": "Recognized by peers for leadership, service, and commitment to the values of Scouting.",
     "link": null
   },
   {

@@ -1,0 +1,19 @@
+{
+  "name": "CAD Problem Solving",
+  "description": "Walking through the process of how you can use CAD and 3D printing to solve niche problems.",
+  "tags": [
+    "Legacy Article",
+    "CAD",
+    "How-to"
+  ],
+  "repositories": [
+
+  ],
+  "otherLinks": [
+    {
+      "name" : "OnShape",
+      "url" : "https://www.onshape.com/en/"
+    }
+  ],
+  "publishDate": "2024-11-05"
+}

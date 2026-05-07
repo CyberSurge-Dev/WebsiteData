@@ -1,14 +1,4 @@
-Project link on Github: [https://github.com/CyberSurge-Dev/fedora_greeter_wallpaper](https://github.com/CyberSurge-Dev/fedora_greeter_wallpaper)
-
-DHiashijuashdui ashd uiashuhsah uhsadhyusdhhfsdauyhfgh sdayuh fasduyg
-
-> Blockquote
-> Line 2
-> Line 3
-
-sakjs lkajklasj dkljasdkl
-
-> Single line
+![image](https://i.postimg.cc/L6sg2nKV/Screenshot-from-2025-07-26-15-52-27.png)
 
 ## What is this?
 As a result of having a surplus of free time, I have found myself taking on new hobbies. In this case, I have noticed a distinct lack of purely cosmetic wallpapers on the login screen that you spend less than 30 seconds on. In an effort to fix this incredibly niche issue, at least on my computer, I reverse engineered an existing program to change the GDM greeter wallpaper every time I restart my computer by using a handful of Python scripts and ChatGPT. 
@@ -188,5 +178,3 @@ After this all of this, the program should be ready to work hand free.
 
 ## Conclusion
 Although this article may serve no purpose to anyone (if anyone) that reads it, I hope you learned at least a little bit about some of the hoops you need to jump through to get seemingly simple things to work on Linux. And although this program may have no reason to exist, it was a good way for me to kill a few hours and learn something new, which is what it's all about.
-
-Project link on Github: [https://github.com/CyberSurge-Dev/fedora_greeter_wallpaper](https://github.com/CyberSurge-Dev/fedora_greeter_wallpaper)

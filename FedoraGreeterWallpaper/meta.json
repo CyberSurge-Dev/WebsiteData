@@ -1,0 +1,22 @@
+{
+  "name": "Fedora Greeter Wallpaper",
+  "description": "A simple project creating a program that automatically changes the GDM background to a new wallpaper on startup.",
+  "tags": [
+    "Legacy Article",
+    "Software"
+  ],
+  "repositories": [
+    {
+      "name" : "Fedora Greeter Wallpaper",
+      "url" : "https://github.com/CyberSurge-Dev/fedora_greeter_wallpaper"
+    },
+    {
+      "name" : "GDM Settings",
+      "url" : "https://github.com/gdm-settings/gdm-settings"
+    }
+  ],
+  "otherLinks": [
+
+  ],
+  "publishDate": "2025-08-01"
+}

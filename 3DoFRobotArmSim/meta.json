@@ -1,0 +1,38 @@
+{
+  "name": "3DoF Arm Simulation",
+  "description": "Diving into my journey learning the basics of linear algebra and creating a simple simulation program to see the magic.",
+  "tags": [
+    "Legacy Article",
+    "Simulation"
+  ],
+  "repositories": [
+    {
+      "name" : "CyberSurge-Dev/RoboticArmSim",
+      "url" : "https://github.com/CyberSurge-Dev/RoboticArmSim"
+    }
+  ],
+  "otherLinks": [
+    {
+      "name" : "Hartenberg Parameters",
+      "url" : "https://en.wikipedia.org/wiki/Denavit%E2%80%93Hartenberg_parameters"
+    },
+    {
+      "name" : "3Blue1Brown: Linear Algebra",
+      "url" : "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab"
+    },
+    {
+      "name" : "Assigning Hartenberg Frames",
+      "url" : "https://automaticaddison.com/how-to-assign-denavit-hartenberg-frames-to-robotic-arms/"
+    },
+    {
+      "name" : "Finding Hartenberg Parameter Tables",
+      "url" : "https://automaticaddison.com/how-to-find-denavit-hartenberg-parameter-tables/"
+    },
+    {
+      "name" : "Inverse Kinematics",
+      "url" : "https://opentextbooks.clemson.edu/wangrobotics/chapter/inverse-kinematics/"
+    }
+
+  ],
+  "publishDate": "2025-03-25"
+}

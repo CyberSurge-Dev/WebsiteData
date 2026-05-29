@@ -1,0 +1,105 @@
+{
+  "articles": [
+    {
+      "folderName": "3DoFRobotArmSim",
+      "covers": [
+        "Cover1.png",
+        "Cover2.png"
+      ],
+      "files": [
+        "RoboticArmSim.py"
+      ],
+      "meta": {
+        "name": "3DoF Arm Simulation",
+        "description": "Diving into my journey learning the basics of linear algebra and creating a simple simulation program to see the magic.",
+        "tags": [
+          "Legacy Article",
+          "Simulation"
+        ],
+        "repositories": [
+          {
+            "name": "CyberSurge-Dev/RoboticArmSim",
+            "url": "https://github.com/CyberSurge-Dev/RoboticArmSim"
+          }
+        ],
+        "otherLinks": [
+          {
+            "name": "Hartenberg Parameters",
+            "url": "https://en.wikipedia.org/wiki/Denavit%E2%80%93Hartenberg_parameters"
+          },
+          {
+            "name": "3Blue1Brown: Linear Algebra",
+            "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab"
+          },
+          {
+            "name": "Assigning Hartenberg Frames",
+            "url": "https://automaticaddison.com/how-to-assign-denavit-hartenberg-frames-to-robotic-arms/"
+          },
+          {
+            "name": "Finding Hartenberg Parameter Tables",
+            "url": "https://automaticaddison.com/how-to-find-denavit-hartenberg-parameter-tables/"
+          },
+          {
+            "name": "Inverse Kinematics",
+            "url": "https://opentextbooks.clemson.edu/wangrobotics/chapter/inverse-kinematics/"
+          }
+        ],
+        "publishDate": "2025-03-25"
+      }
+    },
+    {
+      "folderName": "FedoraGreeterWallpaper",
+      "covers": [
+        "Cover1.png"
+      ],
+      "files": [],
+      "meta": {
+        "name": "Fedora Greeter Wallpaper",
+        "description": "A simple project creating a program that automatically changes the GDM background to a new wallpaper on startup.",
+        "tags": [
+          "Legacy Article",
+          "Software"
+        ],
+        "repositories": [
+          {
+            "name": "Fedora Greeter Wallpaper",
+            "url": "https://github.com/CyberSurge-Dev/fedora_greeter_wallpaper"
+          },
+          {
+            "name": "GDM Settings",
+            "url": "https://github.com/gdm-settings/gdm-settings"
+          }
+        ],
+        "otherLinks": [],
+        "publishDate": "2025-08-01"
+      }
+    },
+    {
+      "folderName": "UsingCADToSolveNicheProblems",
+      "covers": [
+        "Cover1.png",
+        "Cover2.png"
+      ],
+      "files": [
+        "CAD_In_OnShape.pdf"
+      ],
+      "meta": {
+        "name": "CAD Problem Solving",
+        "description": "Walking through the process of how you can use CAD and 3D printing to solve niche problems.",
+        "tags": [
+          "Legacy Article",
+          "CAD",
+          "How-to"
+        ],
+        "repositories": [],
+        "otherLinks": [
+          {
+            "name": "OnShape",
+            "url": "https://www.onshape.com/en/"
+          }
+        ],
+        "publishDate": "2024-11-05"
+      }
+    }
+  ]
+}
